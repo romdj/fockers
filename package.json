@@ -1,0 +1,25 @@
+{
+  "name": "fockers",
+  "version": "0.1.0",
+  "private": true,
+  "devDependencies": {
+    "react-native-scripts": "1.11.1"
+  },
+  "description": "record that mf!",
+  "main": "index.js",
+  "dependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/romdj/fockers.git"
+  },
+  "keywords": [],
+  "author": "Romain Lussier, Marco Marasco",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/romdj/fockers/issues"
+  },
+  "homepage": "https://github.com/romdj/fockers#readme"
+}
